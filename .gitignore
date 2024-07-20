@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.pyo
+
+# Environment Variables
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# macOS
+.DS_Store
+
+# Log files
+*.log
+
+# Virtual Environments
+venv/
+env/
+ENV/
+*.venv
+
+# Selenium-specific
+*.session
+geckodriver.log
+chromedriver.log
+*.driver
+
+# IDEs
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+gen_env.py
